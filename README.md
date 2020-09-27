@@ -31,7 +31,7 @@
 
 ###
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jwcce)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/juycce
 [instagram]: https://instagram.com/jwcce
