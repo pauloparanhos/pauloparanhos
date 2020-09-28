@@ -4,7 +4,6 @@
 - 💬 Discord server: [invite here](https://discord.gg/VAvPvhE)
 - ⚡ Studying Cyber Security
 - 🥅 2020 Goals: eJPT Cert.
-- 📫 Social media: [linktree](https://linktr.ee/jwcce)
 
 ###
 
