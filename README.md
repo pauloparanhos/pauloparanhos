@@ -2,8 +2,8 @@
 
 - :triangular_flag_on_post: #ChimmyChangas
 - 💬 Discord server: [invite here](https://discord.gg/VAvPvhE)
-- ⚡ Studying Cyber Security
-- 🥅 2020 Goals: new computer :joy:
+- ⚡ Studying cyber security
+- 🥅 2020 Goals: eJPT
 
 ###
 
