@@ -32,9 +32,3 @@
 ###
 
 <br clear="both">
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<br clear="both">
