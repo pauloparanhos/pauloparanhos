@@ -36,7 +36,6 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="26" alt="pandas logo"  />
   <img width="0" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="26" alt="adobeillustrator logo"  />
 </div>
 
 ###
