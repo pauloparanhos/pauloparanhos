@@ -28,7 +28,15 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="26" alt="googlecloud logo"  />
   <img width="0" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="26" alt="azure logo"  />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="26" alt="docker logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="26" alt="selenium logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="26" alt="pandas logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="26" alt="adobeillustrator logo"  />
 </div>
 
 ###
