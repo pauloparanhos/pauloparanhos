@@ -67,7 +67,7 @@
 ###
 
 <div align="left">
-  <img src="https://files.fpass.com.br/whitelabels/default/130x40%20ibesg%202.png" width="84.5" height="26" alt="ibesg logo"  />
+  <img src="https://files.fpass.com.br/whitelabels/default/130x40%20ibesg%202.png" width="130" height="40" alt="ibesg logo"  />
   <img width="0" />
-  <img src="https://www.blackbox.ai/apple-touch-icon.png" height="26" alt="blackbox logo"  />
+  <img src="https://www.blackbox.ai/apple-touch-icon.png" height="40" alt="blackbox logo"  />
 </div>
