@@ -43,7 +43,7 @@
 
 <h2 align="left">Contact me</h2>
 
-###
+### 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pauloparanhos/" target="_blank">
