@@ -7,7 +7,7 @@
 
 <h2 align="left">Languages and utilities</h2>
 
-###
+### 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="26" alt="python logo"  />
