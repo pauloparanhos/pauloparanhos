@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jwcce&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jwcce&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <h2 align="left">Languages and utilities</h2>
@@ -51,12 +46,6 @@
   </a>
   <a href="https://www.instagram.com/jwcce/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="paulo@innovonique.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://linktr.ee/jwcce" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
   </a>
 </div>
 
